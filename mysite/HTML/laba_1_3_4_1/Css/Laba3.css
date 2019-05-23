@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn {
+    width: 100%;
+    display: inline-block;
+    text-align: right;
+    background-color: #dddddd;
+    padding: 10px;
+}
+
+.btn button {
+    color: #ffffff;
+    background-color: #12429a;
+    padding: 10px;
+}
+
+.text {
+    border: 2px solid #12429a;
+    margin: 10px;
+    padding: 10px;
+}
+
+.text p {
+    background-origin: #d4d469;
+    margin-top: 10px;
+
+}
+.btn-text {
+    background-color: #a52a2a;
+    color: #ffffff;
+    padding: 4px 15px;
+}
+.for-news {
+    color: #2717ff;
+    font-weight: 700;
+    padding: 0px;
+    margin-top: 10px;
+}
+.btn{
+    text-align: left
+}
+.margin{
+    margin-top: 100px;
+}
