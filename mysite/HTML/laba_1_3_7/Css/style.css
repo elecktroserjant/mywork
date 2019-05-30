@@ -1,0 +1,18 @@
+.block
+ {
+	width: 280px;
+	height: 100px;
+	padding: 10px;
+	background: rgb(236, 232, 232);
+
+}
+.block1 {
+	width: 280px;
+	height: 100px;
+	padding: 10px;
+	background: rgb(161, 161, 161);
+}
+.container {
+	width: 100%;
+	display: flex;
+}
