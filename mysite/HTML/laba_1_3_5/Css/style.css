@@ -7,7 +7,7 @@
 .backgroud {
     height: 100vh;
     width: 100%;
-    background-image: url(..//images/backgroud.jpg);
+    background-image: url(../images/backgroud.jpg);
     background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
